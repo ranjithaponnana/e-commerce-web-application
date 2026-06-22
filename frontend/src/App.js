@@ -4,8 +4,13 @@ import Products from "./Products";
 import Login from "./Login";
 import Register from "./Register";
 import Cart from "./Cart";
+import Checkout from "./Checkout";
+import Orders from "./Orders";
+<Checkout/>
 
+<hr/>
 
+<Orders/>
 function App(){
 
 return(
